@@ -1,3 +1,3 @@
-**SMA(30): 0.65** | SMA(10): 0.66 | Daily: 0.58 | 52-wk percentile: 100% | Trend: rising (fear increasing)
+**SMA(30): 0.84** | SMA(10): 0.90 | Daily: 0.62 | 52-wk percentile: 99% | Trend: rising (fear increasing)
 
-Complacency building — low put protection. Contrarian bearish: excessive optimism makes the market vulnerable.
+Neutral range — no strong sentiment signal. Wait for extremes before drawing conclusions.
