@@ -1,4 +1,4 @@
-**Equity P/C SMA(30): 0.68** — retail traders are **neutral** (more calls than puts)
+**Equity P/C SMA(30): 0.67** — retail traders are **neutral** (more calls than puts)
 
 **Index P/C SMA(30): 1.04** — institutions are **neutral** (hedging with puts)
 
