@@ -1,3 +1,3 @@
-**SMA(30): 0.66** | SMA(10): 0.64 | Daily: 0.56 | 52-wk percentile: 96% | Trend: flat
+**SMA(30): 0.65** | SMA(10): 0.61 | Daily: 0.63 | 52-wk percentile: 95% | Trend: flat
 
 Complacency building — low put protection. Contrarian bearish: excessive optimism makes the market vulnerable.
