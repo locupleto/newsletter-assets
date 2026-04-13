@@ -1,5 +1,5 @@
-**Equity P/C SMA(30): 0.65** — retail traders are **neutral** (more calls than puts)
+**Equity P/C SMA(30): 0.65** — retail traders are **complacent** (more calls than puts)
 
 **Index P/C SMA(30): 1.05** — institutions are **neutral** (hedging with puts)
 
-**No significant divergence** — retail and institutional sentiment are broadly aligned in the neutral range.
+**Divergence: retail speculating, institutions hedging.** Retail traders are buying calls (optimistic) while institutions are buying index puts (protecting portfolios). Smart money is paying for protection that retail ignores — a warning sign.
