@@ -1,1 +1,1 @@
-US market breadth: US Large Cap: trend 41% (bearish), momentum 48% (flat); US Mid-Cap: trend 39% (bearish), momentum 38% (fading); US Small-Cap: trend 42% (bearish), momentum 37% (fading).
+US market breadth: US Large Cap: trend 41% (bearish), momentum 57% (improving); US Mid-Cap: trend 39% (bearish), momentum 48% (flat); US Small-Cap: trend 40% (bearish), momentum 52% (flat).

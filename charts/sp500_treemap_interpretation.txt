@@ -1,1 +1,1 @@
-S&P 500 breadth is broadly negative with 177 gainers vs 308 losers (36% positive). Average change: -0.55%. Strongest sector: Health Care (+1.12%). Weakest sector: Materials (-2.12%). Wide sector dispersion suggests rotation rather than broad risk-on/risk-off flow.
+S&P 500 breadth is broadly positive with 337 gainers vs 148 losers (69% positive). Average change: +1.17%. Strongest sector: Consumer Discretionary (+2.52%). Weakest sector: Energy (-2.58%). Wide sector dispersion suggests rotation rather than broad risk-on/risk-off flow.
