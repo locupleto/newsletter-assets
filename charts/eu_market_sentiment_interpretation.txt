@@ -1,1 +1,1 @@
-European market breadth: FTSE 100: trend 40% (bearish), momentum 43% (fading); DAX / XETRA: trend 51% (neutral), momentum 46% (flat); OMX / Stockholm: trend 41% (bearish), momentum 48% (flat).
+European market breadth: FTSE 100: trend 40% (bearish), momentum 50% (flat); DAX / XETRA: trend 50% (neutral), momentum 48% (flat); OMX / Stockholm: trend 42% (bearish), momentum 50% (flat).
