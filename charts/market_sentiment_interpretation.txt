@@ -1,1 +1,1 @@
-US market breadth: US Large Cap: trend 46% (neutral), momentum 70% (accelerating); US Mid-Cap: trend 45% (neutral), momentum 70% (accelerating); US Small-Cap: trend 44% (bearish), momentum 73% (accelerating).
+US market breadth: US Large Cap: trend 54% (neutral), momentum 73% (accelerating); US Mid-Cap: trend 52% (neutral), momentum 80% (accelerating); US Small-Cap: trend 52% (neutral), momentum 79% (accelerating).
