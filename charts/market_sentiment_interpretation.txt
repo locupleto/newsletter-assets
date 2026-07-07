@@ -1,1 +1,1 @@
-US market breadth: US Large Cap: trend 66% (bullish), momentum 55% (flat); US Mid-Cap: trend 67% (bullish), momentum 50% (flat); US Small-Cap: trend 75% (strongly bullish), momentum 48% (flat).
+US market breadth: US Large Cap: trend 67% (bullish), momentum 54% (flat); US Mid-Cap: trend 66% (bullish), momentum 47% (flat); US Small-Cap: trend 75% (strongly bullish), momentum 41% (fading).
