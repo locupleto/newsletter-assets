@@ -1,1 +1,1 @@
-S&P 500 breadth is mixed with 274 gainers vs 210 losers (57% positive). Average change: +0.12%. Strongest sector: Energy (+3.20%). Weakest sector: Information Technology (-1.87%). Wide sector dispersion suggests rotation rather than broad risk-on/risk-off flow.
+S&P 500 breadth is mixed with 186 gainers vs 297 losers (39% positive). Average change: -0.47%. Strongest sector: Communication Services (+1.43%). Weakest sector: Health Care (-1.95%). Wide sector dispersion suggests rotation rather than broad risk-on/risk-off flow.
