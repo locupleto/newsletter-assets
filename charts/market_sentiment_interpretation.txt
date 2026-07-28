@@ -1,1 +1,1 @@
-US market breadth: US Large Cap: trend 51% (neutral), momentum 43% (fading); US Mid-Cap: trend 59% (bullish), momentum 38% (fading); US Small-Cap: trend 58% (bullish), momentum 30% (deteriorating). Trend is bullish but momentum is fading — breadth may be peaking as fewer stocks maintain upward momentum.
+US market breadth: US Large Cap: trend 53% (neutral), momentum 53% (flat); US Mid-Cap: trend 59% (bullish), momentum 53% (flat); US Small-Cap: trend 57% (bullish), momentum 39% (fading).
