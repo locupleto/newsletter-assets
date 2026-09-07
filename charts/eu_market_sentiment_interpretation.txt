@@ -1,1 +1,1 @@
-European market breadth: FTSE 100: trend 60% (bullish), momentum 21% (deteriorating); DAX / XETRA: trend 54% (neutral), momentum 35% (deteriorating); OMX / Stockholm: trend 43% (bearish), momentum 40% (fading).
+European market breadth: FTSE 100: trend 56% (bullish), momentum 25% (deteriorating); DAX / XETRA: trend 51% (neutral), momentum 35% (deteriorating); OMX / Stockholm: trend 43% (bearish), momentum 41% (fading).
