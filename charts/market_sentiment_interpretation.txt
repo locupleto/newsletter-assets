@@ -1,1 +1,1 @@
-US market breadth: US Large Cap: trend 30% (bearish), momentum 46% (flat); US Mid-Cap: trend 24% (strongly bearish), momentum 44% (fading); US Small-Cap: trend 25% (strongly bearish), momentum 49% (flat).
+US market breadth: US Large Cap: trend 29% (strongly bearish), momentum 42% (fading); US Mid-Cap: trend 22% (strongly bearish), momentum 43% (fading); US Small-Cap: trend 25% (strongly bearish), momentum 49% (flat). Both trend (25%) and momentum (45%) are weak — broad-based selling pressure across cap sizes.
