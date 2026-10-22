@@ -1,1 +1,1 @@
-US market breadth: US Large Cap: trend 58% (bullish), momentum 63% (improving); US Mid-Cap: trend 46% (neutral), momentum 66% (accelerating); US Small-Cap: trend 40% (bearish), momentum 59% (improving). Cap-size divergence: US Large Cap (58%) leading vs US Small-Cap (40%).
+US market breadth: US Large Cap: trend 60% (bullish), momentum 63% (improving); US Mid-Cap: trend 49% (neutral), momentum 68% (accelerating); US Small-Cap: trend 41% (bearish), momentum 59% (improving). Cap-size divergence: US Large Cap (60%) leading vs US Small-Cap (41%).
