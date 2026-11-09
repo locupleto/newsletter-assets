@@ -1,1 +1,1 @@
-S&P 500 breadth is broadly negative with 72 gainers vs 408 losers (15% positive). Average change: -2.77%. Strongest sector: Consumer Staples (-0.71%). Weakest sector: Information Technology (-7.31%). Wide sector dispersion suggests rotation rather than broad risk-on/risk-off flow.
+S&P 500 breadth is broadly negative with 160 gainers vs 319 losers (33% positive). Average change: -0.51%. Strongest sector: Information Technology (+1.41%). Weakest sector: Consumer Staples (-1.32%).
