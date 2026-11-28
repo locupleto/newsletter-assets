@@ -19,17 +19,37 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry1.outputs.page_url || steps.deployment_retry2.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: "."
+
+      # deploy-pages sometimes queries the artifact before GitHub has
+      # registered it ("Fetching artifact metadata failed" / "No artifacts
+      # named github-pages"). The artifact is fine; a later attempt succeeds.
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+      - name: Wait before retry
+        if: steps.deployment.outcome == failure
+        run: sleep 30
+      - name: Deploy to GitHub Pages (retry 1)
+        id: deployment_retry1
+        if: steps.deployment.outcome == failure
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+      - name: Wait before second retry
+        if: steps.deployment.outcome == failure && steps.deployment_retry1.outcome == failure
+        run: sleep 90
+      - name: Deploy to GitHub Pages (retry 2)
+        id: deployment_retry2
+        if: steps.deployment.outcome == failure && steps.deployment_retry1.outcome == failure
+        uses: actions/deploy-pages@v5
